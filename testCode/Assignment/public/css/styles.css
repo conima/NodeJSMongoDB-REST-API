@@ -1,0 +1,47 @@
+/* Remove padding and margin */ 
+*  { 
+    margin: 0; 
+    padding: 0; 
+    border: 0; 
+}
+
+.clear { 
+    clear:both; 
+} 
+
+.right { 
+    float: right; 
+} 
+
+.left { 
+    float: left; 
+}
+
+h1	{
+	color: #0670b4;
+	font-weight: bold;
+}
+
+.panel-title	{
+	font-weight: bold;
+}
+
+.panel-group	{
+	margin-bottom: 50px;
+}
+
+a, a:hover, a:visited	{
+	text-decoration: none !important;
+}
+
+.btn	{
+	margin-right: 20px;
+}
+
+h3.panel-title	{
+	color: #0670b4;
+}
+h5.panel-title	{
+	font-size: 14px !important;
+	color: #0670b4;
+}
